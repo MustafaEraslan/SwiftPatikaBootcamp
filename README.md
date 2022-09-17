@@ -41,5 +41,21 @@ mark down editor kullanılabilir.
 
 https://www.markdownguide.org/basic-syntax/ 
 
+play ground xcode alternatifi olarak kullanılabiliyor.
+
+![image](https://user-images.githubusercontent.com/44713722/190847381-81d34005-fcf9-4024-b756-f9bd942dc38d.png)
+
+![image](https://user-images.githubusercontent.com/44713722/190847903-18cd8829-43c6-4eb3-a051-64f84c3b5b47.png)
+
+swift org mecut. documantation için.
+SwiftUI için, 
+https://developer.apple.com/tutorials/swiftui
+
+100 günlük eğitimi var.
+https://www.hackingwithswift.com/100
+
+
+
+
 
 
