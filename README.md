@@ -47,8 +47,6 @@ play ground xcode alternatifi olarak kullanılabiliyor.
 
 ![image](https://user-images.githubusercontent.com/44713722/190847903-18cd8829-43c6-4eb3-a051-64f84c3b5b47.png)
 
-![image](https://user-images.githubusercontent.com/44713722/190848054-d7eb0e63-90ec-42f2-9dec-823d06c29892.png)
-
 swift org mecut. documantation için.
 SwiftUI için, 
 https://developer.apple.com/tutorials/swiftui
