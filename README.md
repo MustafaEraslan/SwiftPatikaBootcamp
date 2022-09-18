@@ -168,6 +168,9 @@ değer değiştirebiliryouz.
 ![image](https://user-images.githubusercontent.com/44713722/190890229-3931db98-df92-4a38-b349-ddea3837ff92.png)
 
 
+sınıf karşılaştırabiliyoruz. ancak referans deperleri aynı yere mi işaret ediyor ona bakabiliyoruz.
+
+![image](https://user-images.githubusercontent.com/44713722/190892362-2c038171-97b4-4c10-95c9-e6a4fb3c7303.png)
 
 
 
