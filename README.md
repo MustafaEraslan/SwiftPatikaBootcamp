@@ -144,6 +144,14 @@ enum PatikaAPI {
 
 ## Hafta 2 
 
+apple swift'i protokoller ile tanımlıyor. protokoller çok önemli.
+Kalıtım alacaksak sadece 1 tane kalıtım alabiliyoruz. Eğer başka kalıtımlarda alacaksak protokol kullanmamız gerekiyor.
+protokol dosyoları olıuşturukuyor ve comfirm edeliyorsa bu şekilde haberleşiyor.
+Delegate, bir view yada bir controll'erin temsilcisidir.(delegeden aklına gelsin!)
+bir butona bastığımızda delegate'i çalıştırıyoruz. VE ilgili metodun ateşlenmesini sağlıyor. 
+Notification center, uygulama içerisinde bir yerlere mesaj göndermemizi sağlıyor.
+Memory management, zor bir konu. Daha sonra değinilecek.
+Componentler bu hafta geçilmesi planlandı.
 
 
 
