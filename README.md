@@ -153,6 +153,16 @@ Notification center, uygulama içerisinde bir yerlere mesaj göndermemizi sağl�
 Memory management, zor bir konu. Daha sonra değinilecek.
 Componentler bu hafta geçilmesi planlandı.
 
+![image](https://user-images.githubusercontent.com/44713722/190889302-919232aa-0ae7-4a2d-b88c-e9309d2125cf.png)
+![image](https://user-images.githubusercontent.com/44713722/190889144-d0635f3c-54e6-4446-98f5-7afce9a396bc.png)
+![image](https://user-images.githubusercontent.com/44713722/190889212-48fb3ecf-0451-41d6-bec4-0271aa88f6e2.png)
+![image](https://user-images.githubusercontent.com/44713722/190889260-9feec6bb-9259-4d9d-bf69-7e1e0a69143f.png)
+![image](https://user-images.githubusercontent.com/44713722/190889350-98e0d7a2-0f83-4109-bf11-0cb3c25447dd.png)
+![image](https://user-images.githubusercontent.com/44713722/190889377-d482e845-5137-4ccc-9e8e-1fb5ae9aa086.png)
+![image](https://user-images.githubusercontent.com/44713722/190889382-65642ec8-cc7f-4db3-9ae8-e0619c1a3da0.png)
+
+
+
 
 
 
