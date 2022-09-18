@@ -160,6 +160,13 @@ Componentler bu hafta geçilmesi planlandı.
 ![image](https://user-images.githubusercontent.com/44713722/190889350-98e0d7a2-0f83-4109-bf11-0cb3c25447dd.png)
 ![image](https://user-images.githubusercontent.com/44713722/190889377-d482e845-5137-4ccc-9e8e-1fb5ae9aa086.png)
 ![image](https://user-images.githubusercontent.com/44713722/190889382-65642ec8-cc7f-4db3-9ae8-e0619c1a3da0.png)
+--------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/44713722/190890143-79c089b6-941c-43b2-bf7f-888792ac0f48.png)
+
+değer değiştirebiliryouz.
+![image](https://user-images.githubusercontent.com/44713722/190890229-3931db98-df92-4a38-b349-ddea3837ff92.png)
+
 
 
 
