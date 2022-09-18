@@ -172,7 +172,13 @@ sınıf karşılaştırabiliyoruz. ancak referans deperleri aynı yere mi işare
 
 ![image](https://user-images.githubusercontent.com/44713722/190892362-2c038171-97b4-4c10-95c9-e6a4fb3c7303.png)
 
+![image](https://user-images.githubusercontent.com/44713722/190892411-457e4a53-7be0-4a17-96c2-728d365a5ba4.png)
 
+guard let eğer işlem doğruysa devam ediyor.
+
+![image](https://user-images.githubusercontent.com/44713722/190892561-dec9bad0-bf25-451f-9c92-ac7ea510722b.png)
+
+![image](https://user-images.githubusercontent.com/44713722/190895323-144600aa-b21c-44ef-9c94-fc4123ada544.png)
 
 
 
