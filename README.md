@@ -55,6 +55,95 @@ https://developer.apple.com/tutorials/swiftui
 https://www.hackingwithswift.com/100
 
 
+hafta 1 için ek olarak;
+
+//---------------------------------------------------------
+//Control Flow, Funtinos
+
+let isActive = false
+
+if isActive {
+    print("Active")
+}
+else{
+    print("Not Active")
+}
+
+//for index in 0..&lt;10{
+//    print(index)
+//}
+
+for language in languages1 where language as! String == "C++" {
+    print(language)
+}
+
+//for index1 in (0...10).reversed(){
+//    print(index1)
+//}
+var index = 0
+while index &gt; 0 {
+    print(index)
+    index -= 1
+}
+
+languages.forEach {item in print(item)}
+
+var digits = [0,1,2,3]
+
+digits = digits.map {$0 + 1}
+
+print(digits)
+
+//functions
+var increaseDigits:[Int] {
+    var digits = [0,1,2,3]
+    digits = digits.map {$0 + 1}
+    return digits
+}
+print(increaseDigits)
+
+
+var digits1 = [0,1,2,3]
+func increaseDigits(_ digits: [Int])-&gt; [Int] {
+    return digits.map {$0 + 1}
+}
+
+//print(increaseDigits(digits: digits1))
+print(increaseDigits(digits1))
+
+
+//---------------------------------------------------------
+//Enum, Struct and Class
+
+enum PatikaAPI {
+    case getLesson(id: String)
+    case getUsers
+    
+    var endPoints: String {
+        switch self {
+        case .getLesson:
+            return "/get-lesson"
+        case .getUsers: 
+            return "/get-Users"
+        }
+    }
+    
+    var parameters: [String: Any] {
+        switch self {
+        case .getLesson(let id):
+            return ["id":id]
+        case .getUsers:
+            return ["email" : "deneme@gmail.com"]
+        }
+        
+    }
+}
+
+//struct -&gt; Value Type (Microsoft Excel)
+//class -&gt; Referance Type (Google Sheets)
+
+## Hafta 2 
+
 
 
 
