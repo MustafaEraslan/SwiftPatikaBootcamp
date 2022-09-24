@@ -180,5 +180,11 @@ guard let eğer işlem doğruysa devam ediyor.
 
 ![image](https://user-images.githubusercontent.com/44713722/190895323-144600aa-b21c-44ef-9c94-fc4123ada544.png)
 
+## Hafta 2
+# Bölüm 1
 
+Okunacak:
+https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html 
+
+https://medium.com/@sevdagulbaran/solid-prensipleri-7b4b63535291
 
