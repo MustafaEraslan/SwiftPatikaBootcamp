@@ -63,7 +63,7 @@ print(languages)
 
 var platformsAndLanguages:[String: String] = ["iOS" : "Swift", "Android" : "Kotlin"] // : kullanılırken boşluk ile kullanıyoruz.
 
-platformsAndLanguages["Flutter"] = "Dart"
+platformsAndLanguages["Flutter"] = "Dart" // yeni eleman ekledik.
 
 //let filteredValue = platformsAndLanguages.filter {
 //    key, value in value == "Dart"
@@ -73,27 +73,27 @@ let filteredValue = platformsAndLanguages.filter {$1 == "Dart"}
 
 print(filteredValue)
 
-platformsAndLanguages.removeValue(forKey: "iOS")
+platformsAndLanguages.removeValue(forKey: "iOS") // silebiliriz.
 
 print(platformsAndLanguages)
 //
 ////---------------------------------------------------------
-////Control Flow, Funtinos
-//
-//let isActive = false
-//
-//if isActive {
-//    print("Active")
+//Control Flow, Funtinos
+
+let isActive = false
+
+if isActive {
+    print("Active")
+}
+else{
+    print("Not Active")
+}
+
+//for index in 0..&lt;10{
+//    print(index)
 //}
-//else{
-//    print("Not Active")
-//}
+
 //
-////for index in 0..&lt;10{
-////    print(index)
-////}
-//
-////
 
 
 //for index in 0..&lt;10{
