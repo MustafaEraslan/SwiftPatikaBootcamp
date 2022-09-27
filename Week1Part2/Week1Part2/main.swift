@@ -20,6 +20,12 @@ struct User {
     }
 }
 
+var firstUSer = User(id: <#T##String#>, username: <#T##String#>, age: <#T##Int#>) //bu bir intial method'tur. user'ı yukarıdan tanıyım property'lerini getirdi.
+
+class Programmer{
+    var expert:String
+}
+
 //mark: - Generics
 protocol Provider {
     var baseUrl: String { get }

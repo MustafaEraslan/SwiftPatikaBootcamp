@@ -170,4 +170,4 @@ enum PatikaAPI: {
 
 // struct  json datayı parçalamada kullanıyoruz genellikle.
 // struct -> valuetype (MS Excell)
-//class -> referanstype(google sheet) birden çok ekran kullancaksak tercih edilebilir. 
+//class -> referanstype(google sheet) birden çok ekran kullancaksak tercih edilebilir.
