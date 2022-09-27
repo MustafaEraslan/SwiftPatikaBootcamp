@@ -39,20 +39,22 @@ enum InstagramProvider {
     case search(text: String)
 }
 
-//extension InstagramProvider: Provider {
-//    var baseUrl: String{
-//        "https://instagram.com"
-//    }
-//    var endPoint: String{
-//        switch self {
-//        case .getProfile:
-//            return "/getProfile"
-//        case .getRecentPosts:
-//            return "/getRecentPhotos"
-//        case .search:
-//        }
-//    }
-//}
+extension InstagramProvider: Provider {
+    var baseUrl: String{
+        "https://instagram.com"
+    }
+    var endPoint: String{
+        switch self {
+        case .getProfile:
+            return "/getProfile"
+        case .getRecentPosts:
+            return "/getRecentPhotos"
+        case .search:
+        }
+    }
+}
+
+//struct protokolü miras alabilir.
 
 // Mark: closure, Delegate, notification center
 class Button {
@@ -73,5 +75,3 @@ button.tap()
 if button.isTapped {
     print ("Button Tapped")
 }
-
-
