@@ -12,19 +12,7 @@ var str = "Hello, playground"
 print(str)
 
 
-var name: String = "Mustafa"
-var prettyName:String {
-    get {
-        return "Hello, \(name)!"
-    }
-    set {
-        name = "Hello, \(newValue)"
-    }
-}
 
-prettyName = "Ayşe"
-
-print("\(prettyName)!")
 
 //let pi: Double = 3.14
 
@@ -76,9 +64,26 @@ print(filteredValue)
 platformsAndLanguages.removeValue(forKey: "iOS") // silebiliriz.
 
 print(platformsAndLanguages)
+
+// değişkenler ve sabitler.
+
+var name: String = "Mustafa"
+var prettyName:String {
+    get {
+        return "Hello, \(name)!"
+    }
+    set {
+        name = "Hello, \(newValue)"
+    }
+}
+
+prettyName = "Ayşe"
+
+print("\(prettyName)!")
+
 //
 ////---------------------------------------------------------
-//Control Flow, Funtinos
+//Control Flow, Funtinos // örneğin eğer button için ishidden true ise gizli gibi bir bilgi çıkalabiliyor.
 
 let isActive = false
 
