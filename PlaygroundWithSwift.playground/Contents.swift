@@ -91,18 +91,51 @@ if isActive {
     print("Active")
 }
 else{
-    print("Not Active")
+    print("Not Active") // false dönmüş oldu.
 }
 
-//for index in 0..&lt;10{
-//    print(index)
-//}
+for index in 0...10 {
+    print(index)
+}
 
-//
+for language in languages where language as! String  == "C" {
+    print(language)
+}
 
+var index = 0
+while index < 10 {
+    print(index)
+    index += 1
+}
 
-//for index in 0..&lt;10{
-//    print(index)
-//}
+languages.forEach{ item  in
+    print(item)
+}
 
+let digits = [0,1,2,3,4]
 
+digits.map { $0 + 1}
+
+print(digits)
+
+//Functions
+
+func increaseDigits() {
+    var digits = [0,1,2,3,4]
+
+    digits.map { $0 + 1}
+
+    print(digits)
+}
+increaseDigits()
+
+func increasedDigits: [Int] {
+    var digits = [0,1,2,3,4]
+
+    digits.map { $0 + 1}
+    
+    return digits
+
+}
+
+print(increasedDigits)
