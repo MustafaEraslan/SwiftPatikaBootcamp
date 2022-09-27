@@ -139,3 +139,35 @@ func increasedDigits: [Int] {
 }
 
 print(increasedDigits)
+
+// Enum, Struct ve Class
+// Enum, değişken tutabilir. davranış kazanabilir. method tutabilir. Bir tipten de türeyebilir. struct ve class'a yakın.
+
+enum PatikaAPI: {
+    case getLessons
+    case getUsers
+    
+    var endpoint: String {
+        switch self {
+        case .getLessons:
+            return "/get-lessons"
+            
+        case .getUsers
+            return "/get-users"
+        }
+    }
+    
+    var parameters: [String : Any] {
+        switch self {
+        case .getLesson:
+            return ["id" : "012345" ]
+        }
+        case .getUsers:
+        return ["email" : "deneme@deneme.com" ]
+        
+    }
+}
+
+// struct  json datayı parçalamada kullanıyoruz genellikle.
+// struct -> valuetype (MS Excell)
+//class -> referanstype(google sheet) birden çok ekran kullancaksak tercih edilebilir. 
